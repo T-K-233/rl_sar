@@ -69,6 +69,14 @@ sudo ldconfig
 ```
 </details>
 
+#### Python Depdencies
+
+For Python script, install the dependency using the following command
+
+```bash
+pip install -r ./requirements.txt
+```
+
 ## Compilation
 
 Compile in the root directory of the project
